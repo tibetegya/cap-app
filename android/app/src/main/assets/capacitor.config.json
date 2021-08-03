@@ -1,0 +1,11 @@
+{
+	"appId": "com.tessure.todoapp",
+	"appName": "todo-app",
+	"bundledWebRuntime": true,
+	"webDir": "build",
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 0
+		}
+	}
+}
